@@ -2,7 +2,10 @@
 Leetcode gets your foot in the door.
 System Design gets you the keys to the corner office
 
-##  let s go 
+# Interviewer :
+
+
+
 Interviewer :
 Let us begin simply. Imagine you are tasked with designing a URL shortener service—something like bit.ly.
 At Stage 1 (1 user), our only concern is functional correctness.
