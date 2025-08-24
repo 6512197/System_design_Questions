@@ -27,3 +27,5 @@ Interviewer:
 Now, let’s push forward to Stage 3 (Scaling to ~1M users).
 Now Imagine your database starts becoming a bottleneck for writes. Some short links get extremely hot (millions of clicks/hour), and some partitions of your database are overloaded.
 What would you do to scale your database beyond a single instance?
+Interviewer:
+
