@@ -1,1 +1,11 @@
-Stag
+Stage 1  ( we are going to use a vertical system in that case ( common for 1 - 10 visitors ) :  ( there is no correct answer  to this questions  but here is what  you should be using while explaining your case : 
+Use a persistent store: 
+a simple relational DB (SQLite, PostgreSQL, MySQL) or a key-value store (LevelDB [https://expertbeacon.com/understanding-leveldb-a-deep-dive-into-googles-high-performance-key-value-store/], RocksDB)[https://rocksdb.org/docs/getting-started.html].
+Map short URL → long URL as key/value pairs.
+Ensure write-ahead logging (WAL) or journaling so crashes don’t corrupt data.
+Encryption can be layered on top (e.g., AES-256 at rest) if we care about privacy. Compression might be applied to logs or backups, but it’s secondary here.
+Minimal API design could be:
+POST /shorten → Body: { "url": "https://example.com/longurl" } → Response: { "short": "https://short/abc123" }.
+GET /{short_id} → Redirects (302) to original long URL.
+ Stage 2 :  
+
