@@ -23,11 +23,14 @@ What would you change in your design to ensure persistence and durability of lin
 Interviewer :
 Let us escalate.
 Now we enter Stage 2 (Scaling to ~10,000 users). With this small traffic spike, our single server/database may slow down.
-How would you evolve your schema and architecture to handle higher traffic—especially repeated reads of popular short links?
+How would you evolve your schema and architecture to handle higher traffic especially repeated reads of popular short links?
 
 
 Interviewer:
 Now, let’s push forward to Stage 3 (Scaling to ~1M users).
 Now Imagine your database starts becoming a bottleneck for writes. Some short links get extremely hot (millions of clicks/hour), and some partitions of your database are overloaded.
 What would you do to scale your database beyond a single instance?
+
+
+Interviewer:
 
