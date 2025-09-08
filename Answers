@@ -7,5 +7,5 @@ Encryption can be layered on top (e.g., AES-256 at rest) if we care about privac
 Minimal API design could be:
 POST /shorten → Body: { "url": "https://example.com/longurl" } → Response: { "short": "https://short/abc123" }.
 GET /{short_id} → Redirects (302) to original long URL.
- Stage 2 :  
+ Stage 2 :   sacling to 100000 users 
 
