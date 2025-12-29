@@ -37,5 +37,5 @@ What would you do to scale your database beyond a single instance?
 Interviewer:
 
 traffic keeps growing , one short link becomes globally viral 
-
+even with caching  DB  node 
 
