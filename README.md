@@ -40,4 +40,5 @@ Interviewer:
 traffic keeps growing , one short link becomes globally viral 
 even with caching  DB  node can handle writes and metadata 
 growth 
-how would 
+how would your partition (shard your database)  ?
+
