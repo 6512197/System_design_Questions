@@ -22,6 +22,7 @@ What would you change in your design to ensure persistence and durability of lin
 
 
 
+
 Interviewer :
 Let us escalate.
 Now we enter Stage 2 (Scaling to ~10,000 users). With this small traffic spike, our single server/database may slow down.
