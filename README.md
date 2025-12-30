@@ -65,10 +65,14 @@ How do CAP, consistency, and sharding interact?
 Interviewer : 
 DNS ? 
 CP or AP 
+
 PostgreSQL with synchronous replication
 CP or AP?
+
 Redis (single primary, replicas enabled)
 CP or AP during a network partition?
+
+
 Amazon DynamoDB
 CP or AP by default?
 
