@@ -54,4 +54,4 @@ Regional outages must not take the system down
 How would you deploy this system globally?
 
 Interviewer : 
-I forced you to choose availability or consistency for this URL shortener at global scale, which would you choose and why? 
+I forced you to choose availability or consistency for this URL shortener at global scale, which would you choose and why?  (cap)
