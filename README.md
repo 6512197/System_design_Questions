@@ -52,3 +52,5 @@ Users are global (US, EU, Asia)
 Latency must be <100ms
 Regional outages must not take the system down
 How would you deploy this system globally?
+
+Interviewer : 
