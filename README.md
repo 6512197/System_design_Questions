@@ -47,3 +47,8 @@ Interviewer:
 
 You’ve now crossed a real boundary. If you understand this stage, you are no longer thinking like a junior engineer.
 Now we escalate to Stage 4: Planetary Scale (10+ million users).
+New constraints:
+Users are global (US, EU, Asia)
+Latency must be <100ms
+Regional outages must not take the system down
+How would you deploy this system globally?
