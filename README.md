@@ -63,5 +63,7 @@ How do CAP, consistency, and sharding interact?
 # Fun part 
 
 Interviewer : 
-DNS ? CP or AP 
-
+DNS ? 
+CP or AP 
+PostgreSQL with synchronous replication
+CP or AP?
