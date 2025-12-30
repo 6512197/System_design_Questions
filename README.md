@@ -58,3 +58,10 @@ I forced you to choose availability or consistency for this URL shortener at glo
 
 Interviewer : 
 How do CAP, consistency, and sharding interact?
+
+
+# Fun part 
+
+Interviewer : 
+DNS ? CP or AP 
+
