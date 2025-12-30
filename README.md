@@ -42,3 +42,8 @@ even with caching  DB  node can handle writes and metadata
 growth 
 how would your partition (shard your database)  ?
 explain your shard key and how to avoid hot partitions?
+
+Interviewer:
+
+You’ve now crossed a real boundary. If you understand this stage, you are no longer thinking like a junior engineer.
+Now we escalate to Stage 4: Planetary Scale (10+ million users).
