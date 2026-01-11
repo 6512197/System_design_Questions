@@ -61,7 +61,7 @@ Interviewer :
 How do CAP, consistency, and sharding interact?
 
 
-# Fun part 
+# Fun part 20
 
 Interviewer : 
 DNS ? 
