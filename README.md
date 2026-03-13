@@ -3,7 +3,6 @@ Leetcode gets your foot in the door.
 System Design gets you the keys to the corner office
 
 simulacro para mejorar tu entrevista en SD  
-questions 20 questions senior level 
 
 # Interviewer :
 
